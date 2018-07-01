@@ -101,6 +101,7 @@ namespace CodeWarsCollection
         }
         public static string orderWeight(string strng)
         {
+            //non funziona
             List<int> weigths =new List<int>();
             string ret = "";
             string[] strngs = strng.Split(' ').ToArray();
@@ -211,22 +212,7 @@ namespace CodeWarsCollection
         }
     }
 
-    public enum Result
-    {
-        Win,
-        Loss,
-        Tie
-    }
-    public class PokerHand
-    {
-        public PokerHand(string hand)
-        {
-        }
-
-        public Result CompareWith(PokerHand hand)
-        {
-            return Result.Tie;
-        }
-    }
+  
+   
 }
  
