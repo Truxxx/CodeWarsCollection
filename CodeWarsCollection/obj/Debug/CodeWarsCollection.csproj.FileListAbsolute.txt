@@ -1,0 +1,7 @@
+c:\users\turriri1\Source\Repos\CodeWarsCollection\CodeWarsCollection\bin\Debug\CodeWarsCollection.exe.config
+c:\users\turriri1\Source\Repos\CodeWarsCollection\CodeWarsCollection\bin\Debug\CodeWarsCollection.exe
+c:\users\turriri1\Source\Repos\CodeWarsCollection\CodeWarsCollection\bin\Debug\CodeWarsCollection.pdb
+c:\users\turriri1\Source\Repos\CodeWarsCollection\CodeWarsCollection\obj\Debug\CodeWarsCollection.csprojAssemblyReference.cache
+c:\users\turriri1\Source\Repos\CodeWarsCollection\CodeWarsCollection\obj\Debug\CodeWarsCollection.csproj.CoreCompileInputs.cache
+c:\users\turriri1\Source\Repos\CodeWarsCollection\CodeWarsCollection\obj\Debug\CodeWarsCollection.exe
+c:\users\turriri1\Source\Repos\CodeWarsCollection\CodeWarsCollection\obj\Debug\CodeWarsCollection.pdb
